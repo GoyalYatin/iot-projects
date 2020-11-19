@@ -1,3 +1,3 @@
 # LED Changing light
 
-![schema](scheme.png)
+![schema](scheme.PNG)

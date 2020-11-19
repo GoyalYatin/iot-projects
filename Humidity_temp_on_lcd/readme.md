@@ -1,7 +1,7 @@
 # Humidity temp on lcd
 
 ### Demo
-[Demo Video](https://youtu.be/xljzllw2irk)
+[Demo Video](https://youtu.be/WPDBR50KDFQ)
 
 ### Schema
 

@@ -1,3 +1,3 @@
 # IR receiver remote
 
-![schema](scheme.png)
+![schema](scheme.PNG)

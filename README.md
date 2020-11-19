@@ -1,7 +1,7 @@
 # iot-projects
 
 ### Demos
-[Playlist](https://www.youtube.com/watch?v=1XNySCAQgbE&list=PLGVShb98UkHjbc44NelG03ECcow-zo9PB&ab_channel=YatinGoyal)
+[Playlist](https://www.youtube.com/playlist?list=PLuRMRGstbiN8jfbdmR5YfvhMAdtytZ4VU)
 
 ### Projects
 1. [LED Changing light](./LED_Changing_Light)
